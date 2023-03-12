@@ -4,4 +4,4 @@ from the odin project, this is my project where I build a basic HTML recipe webs
 website consist of:
 
 - index.html
-- folder1
+- 3 recipes html pages
